@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Malagutt1&show_icons=true&theme=midnight-purple&icon_color=E2322B&title_color=e2322b&hide=prs,issues&count_private=true&card_width=400" alt="Malagutt1's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Malagutt1&show_icons=true&theme=midnight-purple&icon_color=E2322B&title_color=e2322b&hide=prs,issues&card_width=400" alt="Malagutt1's Stats" />
 </p>
 
 ---
@@ -29,31 +29,45 @@
 
 ---
 
+## 🚀 Projects
+### 🔹 [Facial Recognition Website](https://malagutt1.github.io/WebSiteReconhecimentoFacial.github.io/)
+Web project exploring facial recognition concepts, focused on front-end structure and real-world application.
+
+[![Repository](https://img.shields.io/badge/Repository-GitHub-E2322B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Malagutt1/WebSiteReconhecimentoFacial.github.io)
+[![Live](https://img.shields.io/badge/Live-Preview-E2322B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://malagutt1.github.io/WebSiteReconhecimentoFacial.github.io/)
+
+---
+
+### 🔹 [MABEL / PTQA Dashboard](https://github.com/Malagutt1/2025-2-KAUA_MALAGUTTI-PROG4)
+Dashboard project developed for **IFSC – Campus Chapecó**, focused on data visualization and system integration.
+
+[![Repository](https://img.shields.io/badge/Repository-GitHub-E2322B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Malagutt1/2025-2-KAUA_MALAGUTTI-PROG4)
+
+> More projects coming soon.
+
+---
+
 ### 🌐 Connect with me
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://www.instagram.com/_malagutt1_/">
-        <img src="https://img.shields.io/badge/Instagram-E2322B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-      </a>
-    </td>
-    <td>
-      <a href="mailto:kaua.mm2008@aluno.ifsc.edu.br">
-        <img src="https://img.shields.io/badge/Email-E2322B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-      </a>
-    </td>
-  </tr>
-</table>
-
-
+<p align="center">
+  <a href="https://www.instagram.com/_malagutt1_/">
+    <img src="https://img.shields.io/badge/Instagram-E2322B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:kaua.mm2008@aluno.ifsc.edu.br">
+    <img src="https://img.shields.io/badge/Email-E2322B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
 <details>
-  <summary>💻 Additional Information</summary>
-  
-  - Strong interest in **databases** and their optimization  
-  - Enjoy experimenting with **IoT & Smart Home automation** projects  
-  - Always motivated to learn new technologies and apply them in real projects  
-
+  <summary>⚡ Additional Focus</summary>
+  <ul>
+    <li>
+      Exploring <strong>IoT & Smart Home automation</strong> as a way to connect software with physical systems
+    </li>
+    <li>
+      Applying new technologies through <strong>hands-on projects</strong>, prioritizing functionality and real use cases
+    </li>
+  </ul>
 </details>
