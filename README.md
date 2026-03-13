@@ -1,30 +1,63 @@
-<h1 align="center">👋 Hi, I'm Malagutt1!</h1>
+<h1 align="center">👋 Hi, I'm Malagutt1</h1>
+
+<h3 align="center">Systems Development Student | Programming & Technology</h3>
+
+---
 
 ### 🌟 About Me
-- 📍 2008 | Brazil  
-- 🎒 Technical course student in **Systems Development** at IFSC  
-- 🔧 Focus: **Full-Stack Development** (front-end, back-end & databases)  
-- 💡 Interests: **Databases**, **IoT & Automation (Arduino, Smart Home)**, and **Artificial Intelligence** applied to real-world solutions  
-- 🎯 Goal: build **functional projects** that connect technology with everyday life  
+
+- 📍 Brazil | 2008  
+- 🎓 Technical Course in **Systems Development** – IFSC  
+- 💻 Interested in programming and software development  
+- 🎯 Focused on building practical projects and improving my skills
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Malagutt1&show_icons=true&theme=midnight-purple&icon_color=E2322B&title_color=e2322b&hide=prs,issues&card_width=400" alt="Malagutt1's Stats" />
+
+<img 
+src="https://github-readme-stats.vercel.app/api?username=Malagutt1&show_icons=true&theme=midnight-purple&icon_color=E2322B&title_color=E2322B&hide=prs,issues&card_width=420#gh-dark-mode-only"
+/>
+
+<img 
+src="https://github-readme-stats.vercel.app/api?username=Malagutt1&show_icons=true&theme=default&icon_color=E2322B&title_color=E2322B&hide=prs,issues&card_width=420#gh-light-mode-only"
+/>
+
 </p>
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+<div align="center">
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+</div>
 
 ---
 
-### 🛠️ Languages & Tools
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
-  <img align="center" alt="C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
-  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-  <img align="center" alt="Arduino" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"/>
+### 🌐 Web Development
+<div align="center">
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+</div>
+
+---
+
+### 🗄️ Databases
+<div align="center">
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+</div>
+
+---
+
+### ⚙️ Technologies
+<div align="center">
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"/>
 </div>
 
 ---
@@ -47,27 +80,20 @@ Dashboard project developed for **IFSC – Campus Chapecó**, focused on data vi
 
 ---
 
-### 🌐 Connect with me
+## 🌐 Connect With Me
+
 <p align="center">
   <a href="https://www.instagram.com/_malagutt1_/">
-    <img src="https://img.shields.io/badge/Instagram-E2322B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E2322B?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:kaua.mm2008@aluno.ifsc.edu.br">
-    <img src="https://img.shields.io/badge/Email-E2322B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-E2322B?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<details>
-  <summary>⚡ Additional Focus</summary>
-  <ul>
-    <li>
-      Exploring <strong>IoT & Smart Home automation</strong> as a way to connect software with physical systems
-    </li>
-    <li>
-      Applying new technologies through <strong>hands-on projects</strong>, prioritizing functionality and real use cases
-    </li>
-  </ul>
-</details>
+<p align="center">
+  <i>Building knowledge step by step.</i>
+</p>
