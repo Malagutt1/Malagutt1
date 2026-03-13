@@ -14,15 +14,7 @@
 ---
 
 <p align="center">
-
-<img 
-src="https://github-readme-stats.vercel.app/api?username=Malagutt1&show_icons=true&theme=midnight-purple&icon_color=E2322B&title_color=E2322B&hide=prs,issues&card_width=420#gh-dark-mode-only"
-/>
-
-<img 
-src="https://github-readme-stats.vercel.app/api?username=Malagutt1&show_icons=true&theme=default&icon_color=E2322B&title_color=E2322B&hide=prs,issues&card_width=420#gh-light-mode-only"
-/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Malagutt1&show_icons=true&theme=midnight-purple&icon_color=E2322B&title_color=e2322b&hide=prs,issues&card_width=400" alt="Malagutt1's Stats" />
 </p>
 ---
 
